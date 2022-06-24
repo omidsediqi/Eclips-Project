@@ -1,9 +1,9 @@
 
 public class FirstClassFromEclips {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		public static void reverseName() {
+			System.out.println("This is new Method");
 	}
 
 }
